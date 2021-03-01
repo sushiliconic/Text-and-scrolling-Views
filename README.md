@@ -1,8 +1,8 @@
 ## Text and scrolling views
-![](app/src/main/res/drawable/1.gif)
+![](app/src/main/res/drawable/textviews.gif)
 
 ## Coding Challenge
-![](app/src/main/res/drawable/2.gif)
+![](app/src/main/res/drawable/coding.gif)
 
 ## Homework
 ![](app/src/main/res/drawable/homework.gif)
